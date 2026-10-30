@@ -13,7 +13,7 @@ I have solved **16 challenges** across three categories:
 | Category | Number | Types of Tasks |
 |---|---:|---|
 | SQL/Database | 8 | Finding records, linking tables, investigating audit logs, filtering prescriptions, and identifying modified trial data |
-| Medical Device | 6 | Inspecting web interfaces, discovering default credentials, accessing diagnostics, exploring filesystems, and using debug functionality |
+| Medical Device | 5 | Inspecting web interfaces, discovering default credentials, accessing diagnostics, exploring filesystems, and using debug functionality |
 | Cryptography | 2 | Decoding a ROT13 message and solving a three-digit combination puzzle |
 
 ## Skills Practised
